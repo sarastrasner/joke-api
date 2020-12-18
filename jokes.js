@@ -1,6 +1,4 @@
 'use strict';
-
-const { description } = require('commander');
 const program = require('commander');
 const superagent = require('superagent');
 let token;
